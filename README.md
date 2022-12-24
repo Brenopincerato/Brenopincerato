@@ -4,7 +4,7 @@
 - 📩 Mail of contact: brenopincerato1@gmail.com
 - 💻 I want to become a Software Engineer
 
-<div align="center">
+<div>
   <a href="https://github.com/Brenopincerato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brenopincerato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenopincerato&layout=compact&langs_count=7&theme=dracula"/>
